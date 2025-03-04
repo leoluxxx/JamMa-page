@@ -133,5 +133,12 @@ body {
   font-size: smaller;
 }
 
+.responsive-img {
+  max-width: 90%; /* 让图片最大不超过容器的 50% */
+  height: auto; /* 保持比例 */
+}
 
-
+.responsive-img2 {
+  max-width: 80%; /* 让图片最大不超过容器的 50% */
+  height: auto; /* 保持比例 */
+}
